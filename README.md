@@ -1,4 +1,15 @@
-# 2MD Figma Landing page reproduction GT
+# Figma Landing page reproduction HTML/CSS
 
-### `npm i`
-### `npm start`
+Preview:
+
+![alt text](https://kastad.nu/gitHubRepoImages/md2.0.png)
+
+Instructions:
+
+```
+npm i
+```
+
+```
+npm start
+```
